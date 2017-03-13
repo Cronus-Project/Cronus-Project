@@ -147,7 +147,7 @@
 
 /obj/item/device/radio/headset/heads/headset_servo
 	name = "service officer's headset"
-	desc = "The headset of the top of their class, Hamburger University class of 2088"
+	desc = "The headset of the top of their class, Hamburger University class of 2109."
 	icon_state = "com_headset"
 	item_state = "headset"
 	ks2type = /obj/item/device/encryptionkey/heads/headset_servo
