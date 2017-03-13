@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+LAST_COMPILE_TIME: 1489378660
+DIR: code code\controllers code\game code\game\jobs code\game\jobs\job code\game\machinery code\game\machinery\telecomms code\game\objects code\game\objects\items code\game\objects\items\devices code\game\objects\items\devices\radio code\modules maps maps\cronus maps\cronus\job 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 511.1367
+WINDOW: maps\cronus\cronus-1.dmm;maps\cronus\cronus.dm
+FILE: maps\cronus\cronus.dm
+*/
+// END_INTERNALS
